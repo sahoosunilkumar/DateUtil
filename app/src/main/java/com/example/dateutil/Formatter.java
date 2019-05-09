@@ -1,5 +1,5 @@
 package com.example.dateutil;
 
 public class Formatter {
-    public static final String DATE = "date2";
+    public static final String DATE = "date3";
 }
